@@ -13,7 +13,7 @@ body {
     border-radius: 10px;
     width: 400px;
     height: 550px;
-    background-image: url(card.png);
+    background-image: url(./Images/birthday\ cover.jpg);
     background-size: cover;
     background-position: center;
     background-size: 100%;
@@ -40,7 +40,7 @@ body {
     position: absolute;
     background-color: lightgray;
     background-color: #4158D0;
-    background-image: url(birthday\ cover.jpg);
+    background-image: url(./Images/birthday\ cover.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
